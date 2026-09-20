@@ -1,6 +1,8 @@
 # Sundara-commentaries
 
-_Created: 16-09-2026 · Last updated: 16-09-2026_
+_Created: 16-09-2026 · Last updated: 20-09-2026_
+
+> **AI/data stance:** n/a: data-only, not a drain pick (H5173, 20-09-2026).
 
 Canonical home for the Sundarakāṇḍa commentary apparatus — the sarga-level reviewer
 manifests, gate ledger, commentary-to-add layers, and typed-link concordance that
