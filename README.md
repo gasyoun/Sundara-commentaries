@@ -32,3 +32,5 @@ files stay in `CommentaryStrategies/data/` as a **vendored read-only copy** — 
 is the source of truth; `CommentaryStrategies/data/SUNDARA_APPARATUS_VENDORED.md` marks
 that copy and points back here. Edge registered in
 [Uprava interlinks_edges.tsv](https://github.com/gasyoun/Uprava/blob/main/interlinks_edges.tsv).
+
+**AI surface:** n/a: data-only, not a drain pick. (H5173, 20-09-2026)
