@@ -3,7 +3,7 @@
 _Created: 26-08-2026 · Last updated: 04-09-2026_
 
 **What.** The Q4.1 Type-D `commentary-citation` pilot concordance on the
-Sundarakāṇḍa lexical layer ([H3346](https://github.com/gasyoun/Uprava/blob/main/handoffs/H3346-OxAlpha_CommentaryStrategies_q41-type-d-pilot-concordance_22.08.26.md)):
+Sundarakāṇḍa lexical layer ([H3346](https://github.com/gasyoun/Uprava/blob/main/handoffs/archive/H3346-OxAlpha_CommentaryStrategies_q41-type-d-pilot-concordance_22.08.26.md)):
 258 rows, each a WhitneyRoots MW root cited in a lexical note, keyed end-to-end
 by [sanskrit-util](https://github.com/sanskrit-lexicon/sanskrit-util) v0.10.0
 `linkid` IDs per Uprava's
